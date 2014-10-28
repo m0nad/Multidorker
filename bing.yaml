@@ -1,0 +1,5 @@
+---
+filter: bing|live|microsoft|msn
+url_a: http://www.bing.com/search?q=
+url_b: '&first='
+url_c: 0

@@ -1,0 +1,5 @@
+---
+filter: yahoo|98\.139\.237\.209|74\.6\.147\.41|74\.6\.239\.84|74\.6\.146\.127|74\.6\.239\.67|google|youtube|72\.30\.186\.176
+url_a: 'http://br.search.yahoo.com/search?p=' 
+url_b: '&b='
+url_c: 1
