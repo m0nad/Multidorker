@@ -2,4 +2,4 @@
 filter: istella|jquery.com
 url_a: http://www.istella.it/search/?key=
 url_b: '&page='
-url_c:
+url_c: ''
