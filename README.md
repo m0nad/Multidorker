@@ -1,5 +1,20 @@
-Multidorker - A multi-engine dorker
+# Multidorker
 
-Author: m0nad
+Multidorker is a multi-engine dorker.
 
-$ perl multidorker.pl bing.yaml test
+## Install
+```
+cpan -i WWW::Mechanize
+cpan -i YAML
+cpan -i LWP::Protocol::https
+```
+
+## Usage
+```
+perl multidorker.pl <engine.yaml> <dork> [config.yaml]
+```
+### Example:
+```
+perl multidorker.pl bing.yaml test
+```
+
